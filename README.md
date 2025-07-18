@@ -80,11 +80,11 @@ Your PR will be reviewed by a core developer and tested before being merged.
 
 Please verify before submitting a PR:
 
-- [] Code tested locally
-- [] Code only modifies this module
-- [] No sensitive files included
-- [] Descriptive commit message and PR title
-- [] Follows formatting and naming conventions
+- [ ] Code tested locally
+- [ ] Code only modifies this module
+- [ ] No sensitive files included
+- [ ] Descriptive commit message and PR title
+- [ ] Follows formatting and naming conventions
 
 ---
 
